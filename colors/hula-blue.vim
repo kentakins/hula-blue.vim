@@ -31,13 +31,13 @@ endif
 set t_Co=256
 
 hi Cursor					ctermfg=235		ctermbg=255		cterm=NONE		guifg=#272822 guibg=#ffffff	gui=NONE
-hi Visual					ctermfg=NONE 	ctermbg=237		cterm=NONE		guifg=NONE	  guibg=#3a3a3a	gui=NONE
+hi Visual					ctermfg=NONE 	ctermbg=024		cterm=NONE		guifg=NONE	  guibg=#3a3a3a	gui=NONE
 hi CursorLine			ctermfg=NONE	ctermbg=024		cterm=NONE		guifg=NONE	  guibg=#3a3a3a	gui=NONE
-hi CursorColumn		ctermfg=NONE 	ctermbg=237		cterm=NONE		guifg=NONE	  guibg=#3a3a3a	gui=NONE
+hi CursorColumn		ctermfg=NONE 	ctermbg=024		cterm=NONE		guifg=NONE	  guibg=#3a3a3a	gui=NONE
 hi ColorColumn		ctermfg=NONE 	ctermbg=NONE		cterm=NONE		guifg=NONE	  guibg=#121212	gui=NONE
 hi LineNr					ctermfg=246		ctermbg=NONE	cterm=NONE		guifg=#3a3a3a	guibg=NONE	  gui=NONE
 hi VertSplit			ctermfg=241		ctermbg=NONE		cterm=NONE		guifg=#626262	guibg=#626262	gui=NONE
-hi MatchParen			ctermfg=255		ctermbg=237 	cterm=NONE 		guifg=#ffffff	guibg=#373737	gui=NONE	
+hi MatchParen			ctermfg=255		ctermbg=024 	cterm=NONE 		guifg=#ffffff	guibg=#373737	gui=NONE	
 hi StatusLine			ctermfg=255		ctermbg=241 	cterm=BOLD		guifg=#ffffff	guibg=#626262 gui=BOLD
 hi StatusLineNC		ctermfg=255		ctermbg=241 	cterm=NONE		guifg=#ffffff	guibg=#626262 gui=NONE
 hi Pmenu					ctermfg=NONE	ctermbg=NONE 	cterm=NONE		guifg=NONE 		guibg=NONE 		gui=NONE
@@ -45,8 +45,8 @@ hi PmenuSel				ctermfg=NONE	ctermbg=241 	cterm=NONE		guifg=NONE 		guibg=#626262 
 hi IncSearch			ctermfg=NONE	ctermbg=024 	cterm=NONE		guifg=#262626 guibg=#5fd7ff gui=NONE
 hi Search					ctermfg=NONE	ctermbg=024 	cterm=NONE		guifg=#262626 guibg=#5fd7ff gui=UNDERLINE
 hi Directory			ctermfg=081		ctermbg=NONE 	cterm=NONE		guifg=#5fd7ff guibg=NONE 		gui=NONE
-hi Folded					ctermfg=246		ctermbg=237 	cterm=NONE		guifg=#808080 guibg=#3a3a3a	gui=NONE
-hi SignColumn			ctermfg=NONE 	ctermbg=237 	cterm=NONE		guifg=NONE 		guibg=#3a3a3a	gui=NONE
+hi Folded					ctermfg=246		ctermbg=024 	cterm=NONE		guifg=#808080 guibg=#3a3a3a	gui=NONE
+hi SignColumn			ctermfg=NONE 	ctermbg=024 	cterm=NONE		guifg=NONE 		guibg=#3a3a3a	gui=NONE
 hi Normal					ctermfg=255		ctermbg=NONE 	cterm=NONE		guifg=#ffffff	guibg=NONE	  gui=NONE
 hi Boolean				ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
 hi Character			ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
