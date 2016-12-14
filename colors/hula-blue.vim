@@ -65,7 +65,7 @@ hi Function				ctermfg=081		ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		g
 hi Identifier			ctermfg=081 	ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=ITALIC
 hi Keyword				ctermfg=198		ctermbg=NONE	cterm=NONE		guifg=#ff00af	guibg=NONE		gui=NONE
 hi Label					ctermfg=081		ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=NONE
-hi NonText				ctermfg=232		ctermbg=NONE 	cterm=NONE		guifg=#262626	guibg=NONE    gui=NONE
+hi NonText				ctermfg=238		ctermbg=NONE 	cterm=NONE		guifg=#262626	guibg=NONE    gui=NONE
 hi Number					ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
 hi Operator				ctermfg=198		ctermbg=NONE	cterm=NONE		guifg=#ff00af	guibg=NONE		gui=NONE
 hi PreProc				ctermfg=081		ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=NONE
